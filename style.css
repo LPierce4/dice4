@@ -10,7 +10,7 @@ body{
         #000000
     ) 0 100% no-repeat;
     background-size: 100%;
-    background-color: #fff;
+    background-color: #000000;
 }
 .container{
     width: 100%;
@@ -45,7 +45,7 @@ button{
     outline: none;
     color: #ffffff;
     padding: 15px 0;
-    width: 150px;
+    width: 1500px;
     letter-spacing: 1px;
     border-radius: 15px;
     cursor: pointer;
